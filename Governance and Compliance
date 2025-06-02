@@ -1,3 +1,15 @@
 02 - Governance-and-Compliance/README.md
 # Governance and Compliance
 This section explains how security policies align with laws, reducing risks and ensuring accountability and integrity
+
+# Governance & Compliance
+
+This section contains:
+- Security Governance Model
+- Security Policies (Acceptable Use, Access Control, etc.)
+- Compliance Frameworks (NIST, ISO 27001, SOC 2, GDPR)
+
+## ✅ Tasks
+- [ ] Write a Security Governance Model
+- [ ] Add top 5 security policies
+- [ ] Add a list of frameworks your org aligns with
