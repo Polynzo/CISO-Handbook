@@ -1,4 +1,4 @@
-02-Governance-and-Compliance/Governance Description.md
+02-Governance-and-Compliance/ReadME.md
 # Governance and Compliance
 This section explains how security policies align with laws, reducing risks and ensuring accountability and integrity
 
