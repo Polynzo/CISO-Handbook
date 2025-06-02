@@ -1,2 +1,2 @@
 # CISO-Handbook
-The 1st project of the Juggernaut plan: Creating CISO Handbook
+A complete cybersecurity leadership playbook for aspiring CISOs.
