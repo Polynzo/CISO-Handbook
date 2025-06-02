@@ -13,3 +13,22 @@ This section contains:
 - [ ] Write a Security Governance Model
 - [ ] Add top 5 security policies
 - [ ] Add a list of frameworks your org aligns with
+
+# Acceptable Use Policy
+
+## Purpose
+To define acceptable usage of organizational IT assets.
+
+## Scope
+Applies to all employees, contractors, and vendors.
+
+## Policy
+- Do not use company assets for illegal activities.
+- Do not install unauthorized software.
+- Do not share passwords.
+
+## Enforcement
+Violations may result in disciplinary action, including termination.
+
+## Review Date
+Reviewed annually by the security team.
