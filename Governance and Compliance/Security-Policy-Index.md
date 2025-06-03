@@ -17,7 +17,7 @@ This index lists all current Polynzo security and compliance policies.
 
 ---
 
-**Reviewed by**: Polynzo  
+**Reviewed by**: Gavin Polynice  
 **Last Reviewed**: June 2, 2025  
 **Next Review**: September 2, 2025  
 
