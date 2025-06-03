@@ -14,6 +14,6 @@ To define minimum standards for password creation, usage, and storage.
 
 ---
 
-**Reviewed by**: Gavin Polynice
+**Reviewed by**: Gavin Polynice  
 **Last Reviewed**: June 2, 2025  
 **Next Review**: September 2, 2025  
