@@ -19,5 +19,5 @@ To define how security is governed, enforced, and aligned with organizational go
 ---
 
 **Reviewed by**: Gavin Polynice  
-**Last Reviewed**: June 2, 2025  
-**Next Review**: September 2, 2025  
+**Last Reviewed**: June 3, 2025  
+**Next Review**: August 3, 2025  
