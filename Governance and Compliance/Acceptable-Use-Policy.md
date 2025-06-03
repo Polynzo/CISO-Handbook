@@ -20,3 +20,11 @@ Violations may result in disciplinary actions...
 **Last Reviewed**: June 2, 2025  
 **Next Review**: September 2, 2025  
 
+---
+
+## Version History
+
+| Version | Date | Author | Notes |
+|---------|------|--------|-------|
+| 1.0     | 2025-06-02 | Zo (CISO) | Initial Draft |
+
