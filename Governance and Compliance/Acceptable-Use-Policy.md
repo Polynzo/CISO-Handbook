@@ -1,18 +1,19 @@
 # Acceptable Use Policy
 
 ## Purpose
-To define what is considered acceptable use of company assets and systems.
+The Acceptable Use Policy (AUP) outlines clear guidelines of a secure and efficient workplace, guiding employees on how to responsibly use company technology while protecting data and ensuring compliance.
 
 ## Scope
-All employees, contractors, and third parties.
+All employees, contractors, and third parties. The Acceptable Use Policy applies to any indiviual authroized to use technology resources owned or managed by the company.
 
 ## Policy
-- No personal use of corporate email
-- No installation of unauthorized software
-- No sharing of credentials
+- Use company computer equipment only for organization purposes
+- Maintain device security
+- Protect confidential information
+- Follow access control guidelines
 
 ## Enforcement
-Violations may result in disciplinary actions...
+Violations may result in disciplinary actions or terminations. Proper enforcement of AUPs helps mitigare cybersecurity threats and produces a safe and efficient working environment.
 
 ---
 
@@ -20,7 +21,7 @@ Violations may result in disciplinary actions...
 
 | Version | Date | Author | Notes |
 |---------|------|--------|-------|
-| 1.0     | 2025-06-02 | Zo (CISO) | Initial Draft |
+| 1.0     | 2025-06-03 | Gavin (CISO) | Initial Draft |
 
 ---
 
