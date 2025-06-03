@@ -14,5 +14,9 @@ All employees, contractors, and third parties.
 ## Enforcement
 Violations may result in disciplinary actions...
 
-## Review Cycle
-Annual
+---
+
+**Reviewed by**: [Polynzo]  
+**Last Reviewed**: June 2, 2025  
+**Next Review**: September 2, 2025  
+
