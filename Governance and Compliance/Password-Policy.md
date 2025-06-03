@@ -11,3 +11,9 @@ To define minimum standards for password creation, usage, and storage.
 
 ## Storage
 - All passwords must be hashed with bcrypt or stronger
+
+---
+
+**Reviewed by**: Polynzo 
+**Last Reviewed**: June 2, 2025  
+**Next Review**: September 2, 2025  
