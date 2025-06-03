@@ -26,5 +26,5 @@ Violations may result in disciplinary actions...
 
 **Reviewed by**: Gavin Polynice  
 **Last Reviewed**: June 3, 2025  
-**Next Review**: July 3, 2025  
+**Next Review**: August 3, 2025  
 
