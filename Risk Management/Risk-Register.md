@@ -9,3 +9,9 @@
 # DevSecOps Lead
 
 # Cloud Security Engineer
+
+---
+
+**Reviewed by**: Zo (CISO)  
+**Last Reviewed**: June 2, 2025  
+**Next Review**: Sept 2, 2025
