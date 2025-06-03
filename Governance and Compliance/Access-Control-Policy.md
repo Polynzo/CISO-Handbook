@@ -14,6 +14,6 @@ To ensure access to information systems is limited to authorized users.
 
 ---
 
-**Reviewed by**: Polynzo 
+**Reviewed by**: Gavin Polynice
 **Last Reviewed**: June 2, 2025  
 **Next Review**: September 2, 2025  
