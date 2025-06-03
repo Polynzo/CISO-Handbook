@@ -10,4 +10,9 @@ This index lists all current Polynzo security and compliance policies.
 ## Governance
 - [Security Governance Model](Security-Governance-Model.md)
 
-_Last Updated: June 3, 2025_
+---
+
+**Reviewed by**: Polynzo  
+**Last Reviewed**: June 2, 2025  
+**Next Review**: September 2, 2025  
+
