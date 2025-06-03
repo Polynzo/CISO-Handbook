@@ -15,3 +15,9 @@ To define how security is governed, enforced, and aligned with organizational go
 
 ## Review Cycle
 - Reviewed quarterly by the security committee.
+
+---
+
+**Reviewed by**: Polynzo  
+**Last Reviewed**: June 2, 2025  
+**Next Review**: September 2, 2025  
