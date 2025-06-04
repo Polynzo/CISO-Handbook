@@ -11,8 +11,8 @@ This index lists all current Polynzo security and compliance policies.
 - [Security Governance Model](Security-Governance-Model.md)
 
 - ## Risk Management Policies
-- [Risk Register](../03 - Risk-Management/Risk-Register.md)
-- [Risk Assessment Methodology](../03 - Risk-Management/Risk-Assessment-Methodology.md)
+- [Risk Register](Risk-Register.md)
+- [Risk Assessment Methodology](Risk-Assessment-Methodology.md)
 
 
 ---
