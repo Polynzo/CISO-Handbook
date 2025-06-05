@@ -11,7 +11,7 @@ This section contains:
 - Security Policies (Acceptable Use, Access Control, etc.)
 - Compliance Frameworks (NIST, ISO 27001, SOC 2, GDPR)
 
-## Files Included:
+## Table of Contents:
 - [Security Governance Model](Security-Governance-Model.md)
 - [Security Policy Index](Security-Policy-Index.md)
 - [Acceptable Use Policy](Acceptable-Use-Policy.md)
