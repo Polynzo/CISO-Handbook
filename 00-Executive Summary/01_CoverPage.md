@@ -14,7 +14,7 @@
 
 ---
 
-## Version
+## Version:
 **v1.0 – June 2025**
 
 ---
