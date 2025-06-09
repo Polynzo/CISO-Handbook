@@ -15,6 +15,8 @@
 ## Version:
 **v1.0 – June 2025**
 
+---
+
 ## Target Audience:
 CISOs, CIOs, CTOs, Risk Officers, Security Architects, Governance Teams, Compliance Officers, and Executive Leadership
 
