@@ -29,4 +29,5 @@ CISOs, CIOs, CTOs, Risk Officers, Security Architects, Governance Teams, Complia
 - ISO/IEC 27001:2022
 - Critical Security Controls (CIS)
 - Service Organzation Controls 2 (SOC 2)
+- Zero Trust Architecture
 ---
