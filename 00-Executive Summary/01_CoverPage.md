@@ -8,7 +8,7 @@
 **[Gavin Polynice]** Cybersecurity Leader / Strategist  *(or simply leave title blank if you want to emphasize your full capabilities vs. an "aspirant" label)*
 Email: [gspolynice@gmail.com]  
 LinkedIn: [www.linkedin.com/in/gavin-polynice-256b91228]  
-GitHub: [github.com/yourprofile]  
+GitHub: [https://github.com/Polynzo]  
 Portfolio: [optional]
 
 ---
