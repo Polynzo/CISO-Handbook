@@ -2,8 +2,6 @@
 
 ### Architecting Modern Enterprise Cybersecurity from Vision to Execution
 
----
-
 ## Authored By:
 * **Gavin Polynice**
     * Cybersecurity Program Architect | Executive Risk Strategist  
