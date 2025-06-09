@@ -5,7 +5,7 @@
 ---
 
 ## Authored By:
-**Gavin Polynice**
+* **Gavin Polynice**
     * Cybersecurity Leader / Strategist
     * Email: gspolynice@gmail.com
     * LinkedIn: [linkedin.com/in/gavin-polynice-256b91228](https://www.linkedin.com/in/gavin-polynice-256b91228)
