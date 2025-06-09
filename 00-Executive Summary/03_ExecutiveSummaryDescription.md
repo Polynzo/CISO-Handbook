@@ -2,7 +2,7 @@
 
 This section presents a high-level overview of the organization’s cybersecurity posture, program objectives, current challenges, and long-term vision. It is designed for executive stakeholders, board members, and partners who need clarity without technical depth.
 
-## 📊 Policy-to-Framework Alignment
+##  Policy-to-Framework Alignment Table
 
 | Policy                             | NIST CSF Category      | ISO/IEC 27001 Control(s)    |
 |------------------------------------|-------------------------|-----------------------------|
