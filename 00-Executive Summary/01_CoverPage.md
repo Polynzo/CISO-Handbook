@@ -26,8 +26,8 @@ CISOs, CIOs, CTOs, Risk Officers, Security Architects, Governance Teams, Complia
 
 ## Framework Alignment:
 - NIST Cybersecurity Framework (CSF)
-- ISO/IEC 27001:2022
-- Critical Security Controls (CIS)
-- Service Organzation Controls 2 (SOC 2)
-- Zero Trust Architecture
+- ISO/IEC 27001:2022 - Information Security Management
+- CIS Critical Security Controls (v8)
+- SOC 2 – Service Organization Control for Security, Availability, Processing Integrity, Confidentiality, and Privacy
+- Zero Trust Architecture (NIST SP 800-207)
 ---
