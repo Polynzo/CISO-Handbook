@@ -1,6 +1,6 @@
 # CISO HANDBOOK
 
-### Building Enterprise Cybersecurity Strategy from the Ground Up
+### Architecting Modern Enterprise Cybersecurity from Vision to Execution
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## Target Audience:
-Executive Leadership, Risk Officers, Security Architects, CISOs, CTOs, CIOs, and Compliance Teams
+CISOs, CIOs, CTOs, Risk Officers, Security Architects, Governance Teams, Compliance Officers, and Executive Leadership
 
 ---
 
