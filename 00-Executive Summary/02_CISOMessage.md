@@ -13,9 +13,9 @@ Every policy and control here maps directly to one or more domains from NIST CSF
 
 ## Closing:
 "Thank you for investing your time in reviewing this handbook. I look forward to continuing to build systems of trust, adaptability, and security in today’s dynamic digital landscape. 
-Sincerely, 
-[Your Full Name] 
-Chief Information Security Officer (Candidate)
-[LinkedIn or GitHub link if you want to include one]"
+**Sincerely,**
+**[Your Full Name]**
+**Chief Information Security Officer (Candidate)**
+**[LinkedIn or GitHub link if you want to include one]"**
 
 – [Gavin Polynice]
