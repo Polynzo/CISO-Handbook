@@ -1,8 +1,8 @@
 # CISO HANDBOOK
 
-### Architecting Modern Enterprise Cybersecurity from Vision to Execution
+## Architecting Modern Enterprise Cybersecurity from Vision to Execution
 
-## Authored By:
+### Authored By:
 * **Gavin Polynice**
     * Cybersecurity Program Architect | Executive Risk Strategist  
     * Email: gspolynice@gmail.com
