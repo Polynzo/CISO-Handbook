@@ -5,11 +5,12 @@
 ---
 
 ## Authored By:
-**[Gavin Polynice]** Cybersecurity Leader / Strategist  *(or simply leave title blank if you want to emphasize your full capabilities vs. an "aspirant" label)*
-Email: [gspolynice@gmail.com]  
-LinkedIn: [www.linkedin.com/in/gavin-polynice-256b91228]  
-GitHub: [https://github.com/Polynzo]  
-Portfolio: [optional]
+* **Gavin Polynice**
+    * Cybersecurity Leader / Strategist
+    * Email: gspolynice@gmail.com
+    * LinkedIn: [linkedin.com/in/gavin-polynice-256b91228](https://www.linkedin.com/in/gavin-polynice-256b91228)
+    * GitHub: [github.com/Polynzo](https://github.com/Polynzo)
+    * Portfolio: [Your Optional Portfolio Link Here] *(Remove this line if not used)*
 
 ---
 
