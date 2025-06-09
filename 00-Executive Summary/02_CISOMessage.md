@@ -1,9 +1,5 @@
 # Message From The Chief Information Security Officer
 
-Cybersecurity is not just about technology — it's about resilience, trust, and business continuity.
-
-As CISO, my mission is to create a secure environment that enables growth while proactively managing risk. This handbook reflects our commitment to security maturity, operational excellence, and long-term strategy.
-
-Whether you are a board member, partner, or stakeholder, know this: our cybersecurity program is designed not just to protect, but to lead.
+"Welcome, As the Chief Information Security Officer, I’m proud to present this comprehensive cybersecurity handbook. This body of work reflects a strategic, practical, and scalable approach to building resilient, business-aligned security programs in any organization."
 
 – [Gavin Polynice]
