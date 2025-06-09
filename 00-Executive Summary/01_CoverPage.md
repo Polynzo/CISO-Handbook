@@ -1,4 +1,4 @@
-# 🛡️ CISO HANDBOOK
+# CISO HANDBOOK
 
 ### Building Enterprise Cybersecurity Strategy from the Ground Up
 
