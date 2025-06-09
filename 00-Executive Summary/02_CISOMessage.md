@@ -1,4 +1,4 @@
-# CISO Message
+# Message From The Chief Information Security Officer
 
 Cybersecurity is not just about technology — it's about resilience, trust, and business continuity.
 
