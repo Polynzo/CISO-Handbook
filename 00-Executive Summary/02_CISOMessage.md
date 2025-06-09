@@ -6,4 +6,4 @@ As CISO, my mission is to create a secure environment that enables growth while 
 
 Whether you are a board member, partner, or stakeholder, know this: our cybersecurity program is designed not just to protect, but to lead.
 
-– [Your Name]
+– [Gavin Polynice][Polynzo]
