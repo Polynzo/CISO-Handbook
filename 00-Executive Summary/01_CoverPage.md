@@ -4,9 +4,9 @@
 
 ---
 
-## 👤 Prepared By:
-**[Your Full Name]** Cybersecurity Leader / Strategist  *(or simply leave title blank if you want to emphasize your full capabilities vs. an "aspirant" label)*
-Email: [your-email@example.com]  
+##  Authored By:
+**[Gavin Polynice]** Cybersecurity Leader / Strategist  *(or simply leave title blank if you want to emphasize your full capabilities vs. an "aspirant" label)*
+Email: [gspolynice@gmail.com]  
 LinkedIn: [linkedin.com/in/yourprofile]  
 GitHub: [github.com/yourprofile]  
 Portfolio: [optional]
@@ -18,7 +18,7 @@ Portfolio: [optional]
 
 ---
 
-## 🏢 Intended For:
+##  Target Audience:
 Executive Leadership, Risk Officers, Security Architects, CISOs, CTOs, CIOs, and Compliance Teams
 
 ---
