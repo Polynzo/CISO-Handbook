@@ -22,8 +22,6 @@
 ## Target Audience:
 CISOs, CIOs, CTOs, Risk Officers, Security Architects, Governance Teams, Compliance Officers, and Executive Leadership
 
----
-
 ## Framework Alignment:
 - NIST Cybersecurity Framework (CSF)
 - ISO/IEC 27001:2022
