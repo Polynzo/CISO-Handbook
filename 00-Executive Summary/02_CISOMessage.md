@@ -16,9 +16,8 @@ Every policy and control here maps directly to one or more domains from NIST CSF
 
 Sincerely,  
 **Gavin Polynice**  
-**Chief Information Security Officer Candidate**
+**Chief Information Security Officer (Candidate)**
 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gavin-polynice-256b91228)  
-💻 [GitHub](https://github.com/Polynzo)
+
 
