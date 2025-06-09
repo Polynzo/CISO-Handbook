@@ -10,7 +10,7 @@
     * Email: gspolynice@gmail.com
     * LinkedIn: [linkedin.com/in/gavin-polynice-256b91228](https://www.linkedin.com/in/gavin-polynice-256b91228)
     * GitHub: [github.com/Polynzo](https://github.com/Polynzo)
-    * Portfolio: [Your Optional Portfolio Link Here] *(Remove this line if not used)*
+    * Portfolio: [Your Optional Portfolio Link Here] 
 
 ---
 
