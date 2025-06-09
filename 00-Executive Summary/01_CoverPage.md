@@ -6,7 +6,7 @@
 
 ## Authored By:
 * **Gavin Polynice**
-    * Cybersecurity Leader / Strategist
+    * Cybersecurity Program Architect | Executive Risk Strategist  
     * Email: gspolynice@gmail.com
     * LinkedIn: [linkedin.com/in/gavin-polynice-256b91228](https://www.linkedin.com/in/gavin-polynice-256b91228)
     * GitHub: [github.com/Polynzo](https://github.com/Polynzo)
