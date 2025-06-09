@@ -26,7 +26,6 @@ Executive Leadership, Risk Officers, Security Architects, CISOs, CTOs, CIOs, and
 ## 🧭 Framework Alignment:
 - NIST Cybersecurity Framework (CSF)
 - ISO/IEC 27001:2022
-*(- Optional: CIS Critical Security Controls)*
-*(- Optional: SOC 2)*
-
+- CIS Critical Security Controls
+- SOC 2 Service Organzation Controls 2
 ---
