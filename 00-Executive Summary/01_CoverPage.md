@@ -1,4 +1,4 @@
-# CHIEF INFORMATION SECURITY OFFICER HANDBOOK
+# CISO HANDBOOK
 
 ### Building Enterprise Cybersecurity Strategy from the Ground Up
 
